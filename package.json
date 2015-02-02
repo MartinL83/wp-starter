@@ -1,17 +1,28 @@
 {
-	"name": "wp-starter",
-	"version": "1.0.0",
-	"description": "Starter theme for Wordpress",
-	"main": "Gruntfile.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "",
-	"license": "ISC",
-	"devDependencies": {
-		"grunt": "~0.4.5",
-		"grunt-contrib-less": "~0.11.0",
-		"grunt-contrib-watch": "~0.6.1",
-		"jit-grunt": "~0.7.0"
-	}
+  "name": "wp-starter",
+  "version": "1.0.0",
+  "description": "Starter theme for Wordpress",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Lindgren",
+  "license": "GPL",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "~0.11.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "jit-grunt": "~0.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MartinL83/wp-starter.git"
+  },
+  "keywords": [
+    "Wordpress"
+  ],
+  "bugs": {
+    "url": "https://github.com/MartinL83/wp-starter/issues"
+  },
+  "homepage": "https://github.com/MartinL83/wp-starter"
 }
