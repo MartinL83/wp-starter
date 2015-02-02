@@ -2,6 +2,4 @@
 Starter for wordpress
 
 # Install
-Install node.js & grunt. Then run
-npm install
-grunt watch
+Install node.js & grunt. Then run: "npm install" & "grunt watch"
